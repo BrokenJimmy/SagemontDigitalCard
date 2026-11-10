@@ -1,15 +1,16 @@
 # Sagemont Digital Business Card
 
-Luke Simmons — TouchPoint Specialist, Sagemont Church.
+Responsive NFC-ready digital business card for Luke Simmons.
 
-## Publish
+## Publishing updates
+Upload all files in this folder to the root of `BrokenJimmy/SagemontDigitalCard` on the `main` branch and commit. GitHub Pages uses `main` / `(root)`.
 
-1. Upload all files in this folder to the root of `BrokenJimmy/SagemontDigitalCard` on the `main` branch.
-2. Go to Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
-3. Wait for Pages deployment to succeed.
-4. Visit https://brokenjimmy.github.io/SagemontDigitalCard/
-5. Program NFC cards with that URL as a URL/URI record.
+## Links
+- Plan a Visit: https://www.sagemontchurch.org/
+- Connect Groups: https://www.sagemontchurch.org/connect-groups
+- Online Groups: https://www.sagemontchurch.org/onlinegroups
+- Start Serving: https://www.sagemontchurch.org/serve
 
-The Next Step links currently point to the Sagemont homepage until dedicated URLs are chosen.
+The Sagemont app store links are not included yet; add them when the official links are provided.
 
-The contact card uses the office number (281) 481-8773 only.
+App download section added: official Apple App Store and Google Play links. Upload all files to repository root and commit.

@@ -1,7 +1,9 @@
-# Sagemont Digital Business Card — polished update
+# Luke Simmons — Sagemont Digital Business Card
 
-Upload **all seven files** in this folder to the root of `BrokenJimmy/SagemontDigitalCard` on the `main` branch, replacing matching files.
+Upload all files in this folder to the root of `BrokenJimmy/SagemontDigitalCard` on the `main` branch. GitHub Pages remains configured to deploy from `main` / `(root)`.
 
-Updates: explicit Plan a Visit and Start Serving links; high-contrast official white Sagemont logo in the app section; more compact contact section on desktop and mobile. Existing vCard, business-card download, and app store links remain unchanged.
+Live URL: https://brokenjimmy.github.io/SagemontDigitalCard/
 
-GitHub Pages: https://brokenjimmy.github.io/SagemontDigitalCard/
+Updates: official red Sagemont front artwork as the hero, save-contact action moved directly below name, non-sequential Next Step icons, larger white church logo in the app panel. All links and downloadable files retained.
+
+Test the site on iOS and Android after the GitHub Pages deployment completes.

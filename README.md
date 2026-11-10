@@ -1,1 +1,5 @@
-Sagemont Digital Card — mobile refinement. Upload all files to the repository root, replacing index.html. Existing contact, banner, app, and card assets are unchanged. Mobile Next Steps cards stack; Plan a Visit and Start Serving are whole-card links; Get Connected has two separate links.
+Sagemont Digital Card — final mobile typography polish.
+
+Upload all files to the root of BrokenJimmy/SagemontDigitalCard, replacing existing files. Commit and wait for GitHub Pages green check.
+
+Changes: centered identity, removed red vertical rule, improved email wrapping, vertically stacked app logo and copy on phones, slightly tighter buttons and spacing. All existing destinations and downloadable files preserved.
